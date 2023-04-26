@@ -2,11 +2,11 @@
 
 • 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos - SP
   ##
-<!-- <div align="center"> -->
+<div>
   <a href="https://github.com/raynaranasc">
-  <img height="183em" src="https://github-readme-stats.vercel.app/api?username=raynaranasc&title_color=df6d74&show_icons=true&bg_color=00000000&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raynaranasc&title_color=df6d74&layout=compact&langs_count=7true&bg_color=00000000&theme=dracula"/>
-<!-- </div> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raynaranasc&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raynaranasc&layout-compact&langs_count=16&theme=dracula"/>
+    </div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Laiza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
