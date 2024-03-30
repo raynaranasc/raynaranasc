@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Raynara Nascimento!
 
-• 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos - SP
+• 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec de Praia Grande - SP
   ##
 <div>
   <a href="https://github.com/raynaranasc">
